@@ -2,4 +2,4 @@ import os
 API_HASH = os.getenv("1301676")
 API_ID = os.getenv("580488b2ff493e5bf1e6e1cedddfd78a")
 MONGO_URI = os.getenv("MONGO_URI")
-SESSION = os.getenv("SESSION")
+SESSION = os.getenv("1BVtsOLoBu7wHfrUG24ulPlcNy5hB0F9Yhb_F7FGSQRWJrxITtEmiaxoRgleereFxqjopCtjlMqdPMq3GCAePJSKp0zlpv-Rcp2HCLds-hkOdkhKlBerNgUtilCj4OVX1AWK8qjL3F2bHHWPbjxnx5IecI5_cekUGKXwoJHLarn0IIPLjnhv30V6CJXnCV0d7SdxBhe0Mn4UYOFvShN6SqyrTtKKrPQzsbWMLCj3H3dzacW2V-AQvj1j6_WLxMMM2pbdoj_SsnvqIH2cKWgPpYXcEp0OOqSodP-oPm91P3_oY5HSk4mrRy_cZE-Abk84gpgHuci_2u_PuawwFLIOrCyMGdy34Zds=")
